@@ -4,7 +4,7 @@ Utility to transform a LUIS export json into a .grammar file used to generate an
 This console app can be run like this from the command line:
 
 ```xml
-C:\Dev> LUIS2Alexa *LUIS-export-file.json*
+C:\Dev> LUIS2Alexa LUIS-export-file.json
 ```
 
 It produces one or more output files:
